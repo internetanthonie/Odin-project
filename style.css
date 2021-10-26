@@ -1,0 +1,45 @@
+html{
+    background-color: #1f2937;
+}
+
+header {
+  color: #f9faf8;
+  font-size: 24px;
+
+}
+
+.footer {
+    text-align: center;
+    color: #f9faf8;
+    
+}
+
+.header-link {
+    font-size: 18px;
+    color: #E5e7eb;
+    background-color: #1f2937;
+}
+
+.hero {
+    background-color: #1f2937;
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 800;
+
+
+}
+
+.second{
+    background-color: #1f2937;
+    color: #E5e7eb;
+    font-size: 18px;
+
+}
+
+.button{
+    color: #3882f6;
+
+}
+
+
+
